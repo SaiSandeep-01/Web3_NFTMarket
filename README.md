@@ -1,6 +1,7 @@
 # A NFT Marketplace with React, Solidity and Infuria
 
 You can see the Final Project Here -> ![Demo](./screenshots/Demo.mp4)
+
 Final view of Project! 
 <img src="./screenshots/Demo1.png"/>
 <center><figcaption>WEB3.0 NFT Marketplace</figcaption></center>
